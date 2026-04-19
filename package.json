@@ -1,0 +1,26 @@
+{
+  "name": "express_validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijeetRaghuvanshi123/Express_validators.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AbhijeetRaghuvanshi123/Express_validators/issues"
+  },
+  "homepage": "https://github.com/AbhijeetRaghuvanshi123/Express_validators#readme",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2"
+  }
+}
